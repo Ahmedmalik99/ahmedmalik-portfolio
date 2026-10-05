@@ -18,7 +18,6 @@ export const profile = {
   location: "Karachi, Pakistan",
   timezone: "PKT (UTC+5)",
   email: "ahmedabidjawad@gmail.com",
-  phone: "+92 317 8878928",
   github: "https://github.com/Ahmedmalik99",
   githubHandle: "Ahmedmalik99",
   linkedin: "https://www.linkedin.com/in/ahmedmalik99/",

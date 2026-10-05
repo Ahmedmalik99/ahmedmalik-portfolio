@@ -57,7 +57,6 @@ export function Contact() {
               value={profile.email}
               href={`mailto:${profile.email}`}
             />
-            <Channel label="Phone" value={profile.phone} href={`tel:${profile.phone.replace(/\s/g, "")}`} />
             <Channel
               label="LinkedIn"
               value={`in/${profile.linkedinHandle}`}

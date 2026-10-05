@@ -1,12 +1,12 @@
 {
-  "syncedAt": "2026-10-05T21:07:38.603Z",
+  "syncedAt": "2026-10-05T21:44:35.381Z",
   "user": "Ahmedmalik99",
   "profileUrl": "https://github.com/Ahmedmalik99",
   "totals": {
-    "publicRepos": 17,
-    "publicWorkRepos": 5,
+    "publicRepos": 18,
+    "publicWorkRepos": 6,
     "oldestRepo": "2024-01-16T21:24:47Z",
-    "lastPush": "2026-10-01T16:23:22Z"
+    "lastPush": "2026-10-05T21:41:16Z"
   },
   "topLanguages": [
     {
@@ -20,6 +20,10 @@
     {
       "name": "Jupyter Notebook",
       "count": 2
+    },
+    {
+      "name": "TypeScript",
+      "count": 1
     },
     {
       "name": "Shell",
