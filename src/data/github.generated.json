@@ -1,0 +1,96 @@
+{
+  "syncedAt": "2026-10-05T21:07:38.603Z",
+  "user": "Ahmedmalik99",
+  "profileUrl": "https://github.com/Ahmedmalik99",
+  "totals": {
+    "publicRepos": 17,
+    "publicWorkRepos": 5,
+    "oldestRepo": "2024-01-16T21:24:47Z",
+    "lastPush": "2026-10-01T16:23:22Z"
+  },
+  "topLanguages": [
+    {
+      "name": "Python",
+      "count": 4
+    },
+    {
+      "name": "HTML",
+      "count": 3
+    },
+    {
+      "name": "Jupyter Notebook",
+      "count": 2
+    },
+    {
+      "name": "Shell",
+      "count": 1
+    }
+  ],
+  "repos": [
+    {
+      "name": "docker-health-checker",
+      "description": "Windows GUI that monitors processes as containers — CPU, memory and uptime with colour-coded health. Tkinter and psutil.",
+      "url": "https://github.com/Ahmedmalik99/docker-health-checker",
+      "language": "Python",
+      "updatedAt": "2026-10-01T16:23:22Z",
+      "createdAt": "2026-09-30T14:34:17Z",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "defaultBranch": "master",
+      "headSha": "a8fb5117d2ef785109eaf76facffb736fdc4eb39"
+    },
+    {
+      "name": "cloud-server-project",
+      "description": "Ubuntu server on AWS EC2: users and permissions, UFW, SSH keys, Nginx, systemd, Cron backups, Docker deployment.",
+      "url": "https://github.com/Ahmedmalik99/cloud-server-project",
+      "language": "HTML",
+      "updatedAt": "2026-09-03T10:40:45Z",
+      "createdAt": "2026-09-03T10:34:16Z",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "defaultBranch": "main",
+      "headSha": "889ab9bcff40044a738d55db2af6f1d19bb68c02"
+    },
+    {
+      "name": "road_hazard_detection",
+      "description": "Flask service around a custom-trained YOLO26 pothole detector. Handles images and video, with ByteTrack for cross-frame persistence.",
+      "url": "https://github.com/Ahmedmalik99/road_hazard_detection",
+      "language": "HTML",
+      "updatedAt": "2026-09-02T10:43:39Z",
+      "createdAt": "2026-09-02T10:35:03Z",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "defaultBranch": "main",
+      "headSha": "3b73812836fa91205ee587043c78232c5b1ee271"
+    },
+    {
+      "name": "aws-ebs-snapshot-cleaner",
+      "description": "Scheduled Lambda that deletes unused EBS snapshots. EventBridge trigger, CloudWatch logging, scoped IAM.",
+      "url": "https://github.com/Ahmedmalik99/aws-ebs-snapshot-cleaner",
+      "language": "Python",
+      "updatedAt": "2025-07-29T17:34:58Z",
+      "createdAt": "2025-07-29T17:23:03Z",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "defaultBranch": "main",
+      "headSha": "665b00f1539b650c32699fcaf033568e50b1213c"
+    },
+    {
+      "name": "ebay_products_webscraper",
+      "description": "Selenium WebDriver automation that extracts computer listings from eBay and exports them to Excel.",
+      "url": "https://github.com/Ahmedmalik99/ebay_products_webscraper",
+      "language": null,
+      "updatedAt": "2024-03-24T12:38:38Z",
+      "createdAt": "2024-03-24T12:38:38Z",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "defaultBranch": "main",
+      "headSha": "893b1e33b2fe3b21b6214ef073dc409a780dcb12"
+    }
+  ]
+}
